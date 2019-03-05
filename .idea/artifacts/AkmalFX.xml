@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AkmalFX">
+    <output-path>$PROJECT_DIR$/out/artifacts/AkmalFX</output-path>
+    <root id="archive" name="AkmalFX.jar">
+      <element id="archive" name="AkmalFX.jar">
+        <element id="module-output" name="AkmalFX" />
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/sample/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
